@@ -1,0 +1,16 @@
+@media screen and (max-width:700px) { /*configs aplicadas se a tela tiver até 700px*/
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+    nav {
+        margin: 10px;
+    }
+    header .logo {
+        margin-top: 10px;
+        margin-left: 0;
+    }
+    .botao {
+        margin-top: 5px;
+    }
+}
